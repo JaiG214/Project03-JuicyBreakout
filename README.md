@@ -24,7 +24,7 @@ Added music to menu and game over screen
 Sounds for when you hit blocks, paddle, and lose a life
 
 ## References
-Used Kirby Dreamland and Sonic 2 music for the Main Menu and Game Over screen
+Used Kirby Dreamland and Sonic 2 music for the Main Menu and Levels. For the Game over screen I used AdhesiveWombat - Night Shade.
 
 ## Future Development
 
